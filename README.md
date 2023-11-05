@@ -1,5 +1,7 @@
-# Epic Escape Gaem
-The game that makes you suffer.
+# The Epic Escape Gaem
+“Worst mistake of my life.„
+
+Really hard game with challenges and unusual crap and dad jokes, with a little sprinkle of memes.
 
 - Original from BalazsManus
 - Written in vb.NET
@@ -12,9 +14,8 @@ The game that makes you suffer.
 
 **[DOWNLOAD NOW!!1!](https://github.com/Delta-Trolling-Technologies/EpicEscapeGaem/releases/latest/launcher.exe/download)**
 
-*Protip: No install required for the launcher and the game is installed locally (appdata/roaming/EEG)*
-
-Really hard game with challenges and unusual crap and dad jokes, with a little sprinkle of memes.
+- *No install required for the launcher and the game is installed locally (appdata/roaming/EEG)*
+- Supports almost all Windows based computers and cpu architectures
 
 **[Have an idea? Click here!](https://github.com/Delta-Trolling-Technologies/EpicEscapeGaem/issues/new/choose)**
 
