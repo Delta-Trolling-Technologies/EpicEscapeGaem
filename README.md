@@ -34,3 +34,5 @@ Really hard game with challenges and unusual crap and dad jokes, with a little s
 - [ ] Improve the performace on potatoes
 - [ ] Remove "Debug commands"
 - [X] Remove unnecesary logic from code
+
+Epic Escape Gaem © 2023-2024 by [BalazsManus](https://balazsmanus.hu) is licensed under [Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=epic-escape-gaem) 
